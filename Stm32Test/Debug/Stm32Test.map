@@ -1,0 +1,1309 @@
+Archive member included because of file (symbol)
+
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                              src\main.o (ticks_init)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+                              src\main.o (_delay_ms)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+                              C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o) (buzzer_set)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+                              C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o) (SystemCoreClock)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+                              src\main.o (RCC_APB2PeriphClockCmd)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+                              src\main.o (GPIO_Init)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+                              (Reset_Handler)
+C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+                              C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o) (_VectorTableKeep)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+                              C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o) (__libc_init_array)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+                              (_printf_float)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (_printf_common)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (_dtoa_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (_localeconv_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (malloc)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (memcpy)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (_Balloc)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o) (_calloc_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o) (_free_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o) (_malloc_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (__fpclassifyd)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strcmp.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o) (strcmp)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (strlen)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o) (_impure_ptr)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o) (memset)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o) (errno)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (__aeabi_dsub)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (__aeabi_dmul)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o) (__aeabi_dcmpeq)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+                              c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+tmp_val             0x320             C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+__gnu_lto_v1        0x1               src\stm32f10x_it.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\stm32f10x_it.o
+ .text          0x00000000        0x0 src\stm32f10x_it.o
+ .data          0x00000000        0x0 src\stm32f10x_it.o
+ .bss           0x00000000        0x0 src\stm32f10x_it.o
+ .gnu.lto_.inline.b1511bd7
+                0x00000000       0x3a src\stm32f10x_it.o
+ .gnu.lto_Default_Handler.b1511bd7
+                0x00000000       0x63 src\stm32f10x_it.o
+ .gnu.lto_NMI_Handler.b1511bd7
+                0x00000000       0x72 src\stm32f10x_it.o
+ .gnu.lto_HardFault_Handler.b1511bd7
+                0x00000000       0x66 src\stm32f10x_it.o
+ .gnu.lto_MemManage_Handler.b1511bd7
+                0x00000000       0x66 src\stm32f10x_it.o
+ .gnu.lto_BusFault_Handler.b1511bd7
+                0x00000000       0x66 src\stm32f10x_it.o
+ .gnu.lto_UsageFault_Handler.b1511bd7
+                0x00000000       0x66 src\stm32f10x_it.o
+ .gnu.lto_SVC_Handler.b1511bd7
+                0x00000000       0x73 src\stm32f10x_it.o
+ .gnu.lto_DebugMon_Handler.b1511bd7
+                0x00000000       0x73 src\stm32f10x_it.o
+ .gnu.lto_PendSV_Handler.b1511bd7
+                0x00000000       0x73 src\stm32f10x_it.o
+ .gnu.lto_.symbol_nodes.b1511bd7
+                0x00000000       0x43 src\stm32f10x_it.o
+ .gnu.lto_.refs.b1511bd7
+                0x00000000        0xf src\stm32f10x_it.o
+ .gnu.lto_.decls.b1511bd7
+                0x00000000      0x1ec src\stm32f10x_it.o
+ .gnu.lto_.symtab.b1511bd7
+                0x00000000      0x117 src\stm32f10x_it.o
+ .gnu.lto_.opts
+                0x00000000       0xb0 src\stm32f10x_it.o
+ .text.Default_Handler
+                0x00000000       0x10 src\stm32f10x_it.o
+ COMMON         0x00000000        0x1 src\stm32f10x_it.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .group         0x00000000        0x8 src\main.o
+ .text          0x00000000        0x0 src\main.o
+ .data          0x00000000        0x0 src\main.o
+ .bss           0x00000000        0x0 src\main.o
+ .gnu.lto_.inline.bfef9f50
+                0x00000000       0x51 src\main.o
+ .gnu.lto_button_init.bfef9f50
+                0x00000000      0x143 src\main.o
+ .gnu.lto_led_init.bfef9f50
+                0x00000000      0x160 src\main.o
+ .gnu.lto_led_blue_init.bfef9f50
+                0x00000000      0x15f src\main.o
+ .gnu.lto_main.bfef9f50
+                0x00000000      0x7f3 src\main.o
+ .gnu.lto_.symbol_nodes.bfef9f50
+                0x00000000      0x112 src\main.o
+ .gnu.lto_.refs.bfef9f50
+                0x00000000       0x25 src\main.o
+ .gnu.lto_.decls.bfef9f50
+                0x00000000      0x82a src\main.o
+ .gnu.lto_.symtab.bfef9f50
+                0x00000000      0x175 src\main.o
+ .gnu.lto_.opts
+                0x00000000       0xb0 src\main.o
+ .debug_macro   0x00000000      0x856 src\main.o
+ .debug_macro   0x00000000       0x16 src\main.o
+ .debug_macro   0x00000000       0x44 src\main.o
+ .debug_macro   0x00000000      0x209 src\main.o
+ .debug_macro   0x00000000       0x56 src\main.o
+ .debug_macro   0x00000000     0x7e6d src\main.o
+ .debug_macro   0x00000000      0x3a7 src\main.o
+ .debug_macro   0x00000000       0x9a src\main.o
+ .debug_macro   0x00000000      0x2cf src\main.o
+ .debug_macro   0x00000000      0x279 src\main.o
+ .debug_macro   0x00000000      0x2ac src\main.o
+ .debug_macro   0x00000000      0x3e2 src\main.o
+ .debug_macro   0x00000000      0x2c4 src\main.o
+ .debug_macro   0x00000000      0x220 src\main.o
+ .debug_macro   0x00000000       0x8b src\main.o
+ .debug_macro   0x00000000       0x35 src\main.o
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.jmpfuncs.300effbf38097c1e
+                0x00000000       0x27 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.inline.300effbf38097c1e
+                0x00000000       0x6e C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.pureconst.300effbf38097c1e
+                0x00000000       0x1c C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_get_ticks.300effbf38097c1e
+                0x00000000       0xa1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_get_seconds.300effbf38097c1e
+                0x00000000       0xa1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_get_time.300effbf38097c1e
+                0x00000000      0x13e C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_ticks_init.300effbf38097c1e
+                0x00000000      0x245 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_SysTick_Handler.300effbf38097c1e
+                0x00000000      0x36b C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_buzzer_control.300effbf38097c1e
+                0x00000000      0x1d1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.symbol_nodes.300effbf38097c1e
+                0x00000000       0x79 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.refs.300effbf38097c1e
+                0x00000000       0x40 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.decls.300effbf38097c1e
+                0x00000000      0xd66 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.symtab.300effbf38097c1e
+                0x00000000      0x197 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .text.buzzer_control
+                0x00000000       0x44 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.jmpfuncs.59af12fd21f43300
+                0x00000000       0x1e C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.inline.59af12fd21f43300
+                0x00000000       0x42 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.pureconst.59af12fd21f43300
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto__delay_ms.59af12fd21f43300
+                0x00000000      0x260 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto__delay_us.59af12fd21f43300
+                0x00000000      0x187 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.symbol_nodes.59af12fd21f43300
+                0x00000000       0x64 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.refs.59af12fd21f43300
+                0x00000000        0xf C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.decls.59af12fd21f43300
+                0x00000000      0x4b4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.symtab.59af12fd21f43300
+                0x00000000       0xac C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .text._delay_us
+                0x00000000       0x3c C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .bss.tmp_cnt   0x00000000        0x1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ COMMON         0x00000000      0x320 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.jmpfuncs.c3687541cc193009
+                0x00000000       0x48 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.inline.c3687541cc193009
+                0x00000000       0x53 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.pureconst.c3687541cc193009
+                0x00000000       0x16 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_buzzer_set.part.0.c3687541cc193009
+                0x00000000       0xe5 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_buzzer_init.c3687541cc193009
+                0x00000000      0x153 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_buzzer_set.c3687541cc193009
+                0x00000000       0xf2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.symbol_nodes.c3687541cc193009
+                0x00000000       0x61 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.refs.c3687541cc193009
+                0x00000000        0xf C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.decls.c3687541cc193009
+                0x00000000      0x710 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.symtab.c3687541cc193009
+                0x00000000       0xae C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .text.buzzer_init
+                0x00000000       0x30 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.jmpfuncs.a141f9828244677d
+                0x00000000       0x1a C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.inline.a141f9828244677d
+                0x00000000       0x49 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.pureconst.a141f9828244677d
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_SetSysClockTo72.a141f9828244677d
+                0x00000000      0x4a6 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_SystemInit.a141f9828244677d
+                0x00000000      0x1b7 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_SystemCoreClockUpdate.a141f9828244677d
+                0x00000000      0x3dc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto__init.a141f9828244677d
+                0x00000000       0xa8 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.symbol_nodes.a141f9828244677d
+                0x00000000       0x58 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.refs.a141f9828244677d
+                0x00000000       0x19 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.decls.a141f9828244677d
+                0x00000000      0x8b4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.symtab.a141f9828244677d
+                0x00000000       0xb0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x5c C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .data.AHBPrescTable
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.jmpfuncs.b85504e4937ed49b
+                0x00000000       0x5f C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.inline.b85504e4937ed49b
+                0x00000000      0x165 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.pureconst.b85504e4937ed49b
+                0x00000000       0x4a C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_HSEConfig.part.0.b85504e4937ed49b
+                0x00000000      0x12f C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ITConfig.part.1.b85504e4937ed49b
+                0x00000000      0x130 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_AHBPeriphClockCmd.part.2.b85504e4937ed49b
+                0x00000000      0x137 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB2PeriphClockCmd.part.3.b85504e4937ed49b
+                0x00000000      0x138 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB1PeriphClockCmd.part.4.b85504e4937ed49b
+                0x00000000      0x137 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB2PeriphResetCmd.part.5.b85504e4937ed49b
+                0x00000000      0x137 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB1PeriphResetCmd.part.6.b85504e4937ed49b
+                0x00000000      0x138 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_DeInit.b85504e4937ed49b
+                0x00000000      0x171 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_HSEConfig.b85504e4937ed49b
+                0x00000000      0x198 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_WaitForHSEStartUp.b85504e4937ed49b
+                0x00000000      0x354 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_AdjustHSICalibrationValue.b85504e4937ed49b
+                0x00000000      0x153 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_HSICmd.b85504e4937ed49b
+                0x00000000       0xc6 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_PLLConfig.b85504e4937ed49b
+                0x00000000      0x144 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_PLLCmd.b85504e4937ed49b
+                0x00000000       0xc6 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_SYSCLKConfig.b85504e4937ed49b
+                0x00000000      0x139 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_GetSYSCLKSource.b85504e4937ed49b
+                0x00000000       0xdf C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_HCLKConfig.b85504e4937ed49b
+                0x00000000      0x13a C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_PCLK1Config.b85504e4937ed49b
+                0x00000000      0x139 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_PCLK2Config.b85504e4937ed49b
+                0x00000000      0x14d C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ITConfig.b85504e4937ed49b
+                0x00000000      0x12a C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_USBCLKConfig.b85504e4937ed49b
+                0x00000000       0xb6 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ADCCLKConfig.b85504e4937ed49b
+                0x00000000      0x135 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_LSEConfig.b85504e4937ed49b
+                0x00000000      0x13f C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_LSICmd.b85504e4937ed49b
+                0x00000000       0xca C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_RTCCLKConfig.b85504e4937ed49b
+                0x00000000       0xe1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_RTCCLKCmd.b85504e4937ed49b
+                0x00000000       0xca C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_GetClocksFreq.b85504e4937ed49b
+                0x00000000      0x4b2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_AHBPeriphClockCmd.b85504e4937ed49b
+                0x00000000      0x135 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB2PeriphClockCmd.b85504e4937ed49b
+                0x00000000      0x135 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB1PeriphClockCmd.b85504e4937ed49b
+                0x00000000      0x134 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB2PeriphResetCmd.b85504e4937ed49b
+                0x00000000      0x134 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_APB1PeriphResetCmd.b85504e4937ed49b
+                0x00000000      0x132 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_BackupResetCmd.b85504e4937ed49b
+                0x00000000       0xca C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ClockSecuritySystemCmd.b85504e4937ed49b
+                0x00000000       0xca C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_MCOConfig.b85504e4937ed49b
+                0x00000000       0xb6 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_GetFlagStatus.b85504e4937ed49b
+                0x00000000      0x264 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ClearFlag.b85504e4937ed49b
+                0x00000000       0xdf C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_GetITStatus.b85504e4937ed49b
+                0x00000000      0x155 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_RCC_ClearITPendingBit.b85504e4937ed49b
+                0x00000000       0xb5 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.symbol_nodes.b85504e4937ed49b
+                0x00000000       0xde C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.refs.b85504e4937ed49b
+                0x00000000       0x17 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.decls.b85504e4937ed49b
+                0x00000000     0x1034 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.symtab.b85504e4937ed49b
+                0x00000000      0x412 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_DeInit
+                0x00000000       0x40 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_HSEConfig
+                0x00000000       0x38 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_HSICmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_PLLConfig
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_PLLCmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_ITConfig
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_LSEConfig
+                0x00000000       0x20 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_LSICmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_GetClocksFreq
+                0x00000000       0x94 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_MCOConfig
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_ClearFlag
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_GetITStatus
+                0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .data.ADCPrescTable
+                0x00000000        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .data.APBAHBPrescTable
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.jmpfuncs.6e2277b7258f3205
+                0x00000000       0x6b C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.inline.6e2277b7258f3205
+                0x00000000      0x1d0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.pureconst.6e2277b7258f3205
+                0x00000000       0x32 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_DeInit.6e2277b7258f3205
+                0x00000000      0x202 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_AFIODeInit.6e2277b7258f3205
+                0x00000000       0xbb C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_Init.6e2277b7258f3205
+                0x00000000      0x606 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_StructInit.6e2277b7258f3205
+                0x00000000       0xdd C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ReadInputDataBit.6e2277b7258f3205
+                0x00000000      0x150 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ReadInputData.6e2277b7258f3205
+                0x00000000       0xcb C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ReadOutputDataBit.6e2277b7258f3205
+                0x00000000      0x150 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ReadOutputData.6e2277b7258f3205
+                0x00000000       0xcb C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_SetBits.6e2277b7258f3205
+                0x00000000       0xcd C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ResetBits.6e2277b7258f3205
+                0x00000000       0xcd C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_WriteBit.6e2277b7258f3205
+                0x00000000      0x11d C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_Write.6e2277b7258f3205
+                0x00000000       0xcd C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_PinLockConfig.6e2277b7258f3205
+                0x00000000      0x144 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_EventOutputConfig.6e2277b7258f3205
+                0x00000000      0x16a C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_EventOutputCmd.6e2277b7258f3205
+                0x00000000       0xc7 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_PinRemapConfig.6e2277b7258f3205
+                0x00000000      0x41f C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_EXTILineConfig.6e2277b7258f3205
+                0x00000000      0x1bd C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_GPIO_ETH_MediaInterfaceConfig.6e2277b7258f3205
+                0x00000000       0xb7 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.symbol_nodes.6e2277b7258f3205
+                0x00000000       0xaa C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.refs.6e2277b7258f3205
+                0x00000000        0xf C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.decls.6e2277b7258f3205
+                0x00000000      0xc68 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.symtab.6e2277b7258f3205
+                0x00000000      0x277 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_DeInit
+                0x00000000       0xdc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_StructInit
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_WriteBit
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_Write
+                0x00000000        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x20 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_PinRemapConfig
+                0x00000000       0x6c C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2c C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .text          0x00000000       0x14 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+ .text          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .data          0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .bss           0x00000000        0x0 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.jmpfuncs.dbb8c57ac155f691
+                0x00000000       0x15 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.inline.dbb8c57ac155f691
+                0x00000000       0xb3 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.pureconst.dbb8c57ac155f691
+                0x00000000       0x76 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_Default_Handler.dbb8c57ac155f691
+                0x00000000       0x82 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto__VectorTableKeep.dbb8c57ac155f691
+                0x00000000       0x92 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.symbol_nodes.dbb8c57ac155f691
+                0x00000000      0x12f C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.refs.dbb8c57ac155f691
+                0x00000000       0xe7 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.decls.dbb8c57ac155f691
+                0x00000000      0xbb5 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.symtab.dbb8c57ac155f691
+                0x00000000      0x9bc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .gnu.lto_.opts
+                0x00000000       0xa4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .text._printf_i
+                0x00000000      0x228 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .rodata.str1.1
+                0x00000000       0x22 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x00000000        0x8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000        0xc c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x00000000        0x8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x14 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text.localeconv
+                0x00000000        0x8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x00000000       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x00000000       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x84 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x44 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xa6 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x4a c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x34 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x32 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x48 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x88 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x2c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+ .text          0x00000000       0x14 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD src\stm32f10x_it.o
+LOAD src\main.o
+LOAD C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a
+START GROUP
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+                0x20010000                _estack = 0x20010000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1e4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1e4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+                0x08000000                __vect_table
+                0x080001e4                . = ALIGN (0x4)
+
+.text           0x080001e8     0x2c64
+                0x080001e8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001e8      0x370 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                0x080001e8                __aeabi_drsub
+                0x080001f0                __aeabi_dsub
+                0x080001f0                __subdf3
+                0x080001f4                __aeabi_dadd
+                0x080001f4                __adddf3
+                0x0800046c                __floatunsidf
+                0x0800046c                __aeabi_ui2d
+                0x0800048c                __floatsidf
+                0x0800048c                __aeabi_i2d
+                0x080004b0                __aeabi_f2d
+                0x080004b0                __extendsfdf2
+                0x080004ec                __floatundidf
+                0x080004ec                __aeabi_ul2d
+                0x080004fc                __floatdidf
+                0x080004fc                __aeabi_l2d
+ .text          0x08000558      0x424 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                0x08000558                __aeabi_dmul
+                0x08000558                __muldf3
+                0x080007ac                __divdf3
+                0x080007ac                __aeabi_ddiv
+ .text          0x0800097c      0x110 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                0x0800097c                __gtdf2
+                0x0800097c                __gedf2
+                0x08000984                __ltdf2
+                0x08000984                __ledf2
+                0x0800098c                __nedf2
+                0x0800098c                __eqdf2
+                0x0800098c                __cmpdf2
+                0x08000a08                __aeabi_cdrcmple
+                0x08000a18                __aeabi_cdcmpeq
+                0x08000a18                __aeabi_cdcmple
+                0x08000a28                __aeabi_dcmpeq
+                0x08000a3c                __aeabi_dcmplt
+                0x08000a50                __aeabi_dcmple
+                0x08000a64                __aeabi_dcmpge
+                0x08000a78                __aeabi_dcmpgt
+ .text          0x08000a8c       0x50 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                0x08000a8c                __aeabi_d2iz
+                0x08000a8c                __fixdfsi
+ *(.text*)
+ .text.NMI_Handler
+                0x08000adc       0x14 src\stm32f10x_it.o
+                0x08000adc                NMI_Handler
+ .text.HardFault_Handler
+                0x08000af0       0x10 src\stm32f10x_it.o
+                0x08000af0                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000b00       0x10 src\stm32f10x_it.o
+                0x08000b00                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000b10       0x10 src\stm32f10x_it.o
+                0x08000b10                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000b20       0x10 src\stm32f10x_it.o
+                0x08000b20                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000b30       0x14 src\stm32f10x_it.o
+                0x08000b30                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000b44       0x14 src\stm32f10x_it.o
+                0x08000b44                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000b58       0x14 src\stm32f10x_it.o
+                0x08000b58                PendSV_Handler
+ .text.button_init
+                0x08000b6c       0x30 src\main.o
+                0x08000b6c                button_init
+ .text.led_init
+                0x08000b9c       0x40 src\main.o
+                0x08000b9c                led_init
+ .text.led_blue_init
+                0x08000bdc       0x38 src\main.o
+                0x08000bdc                led_blue_init
+ .text.main     0x08000c14      0x2bc src\main.o
+                0x08000c14                main
+ .text.get_ticks
+                0x08000ed0        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x08000ed0                get_ticks
+ .text.get_seconds
+                0x08000edc        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x08000edc                get_seconds
+ .text.get_time
+                0x08000ee8       0x24 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x08000ee8                get_time
+ .text.ticks_init
+                0x08000f0c       0x48 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x08000f0c                ticks_init
+ .text.SysTick_Handler
+                0x08000f54       0x90 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x08000f54                SysTick_Handler
+ .text._delay_ms
+                0x08000fe4       0x40 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+                0x08000fe4                _delay_ms
+ .text.buzzer_set
+                0x08001024       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+                0x08001024                buzzer_set
+ .text.SystemInit
+                0x0800103c      0x108 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+                0x0800103c                SystemInit
+ .text._init    0x08001144        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+                0x08001144                _init
+ .text.RCC_APB2PeriphClockCmd
+                0x08001148       0x18 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+                0x08001148                RCC_APB2PeriphClockCmd
+ .text.GPIO_Init
+                0x08001160       0xc4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+                0x08001160                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08001224        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+                0x08001224                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x08001230        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+                0x08001230                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x08001234        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+                0x08001234                GPIO_ResetBits
+ .text.Reset_Handler
+                0x08001238       0x54 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+                0x08001238                Reset_Handler
+ .text.Default_Handler
+                0x0800128c        0xc C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+                0x0800128c                EXTI2_IRQHandler
+                0x0800128c                TIM8_TRG_COM_IRQHandler
+                0x0800128c                TIM8_CC_IRQHandler
+                0x0800128c                TIM1_CC_IRQHandler
+                0x0800128c                TIM6_IRQHandler
+                0x0800128c                PVD_IRQHandler
+                0x0800128c                SDIO_IRQHandler
+                0x0800128c                EXTI3_IRQHandler
+                0x0800128c                EXTI0_IRQHandler
+                0x0800128c                I2C2_EV_IRQHandler
+                0x0800128c                ADC1_2_IRQHandler
+                0x0800128c                SPI1_IRQHandler
+                0x0800128c                TAMPER_IRQHandler
+                0x0800128c                TIM8_UP_IRQHandler
+                0x0800128c                DMA2_Channel2_IRQHandler
+                0x0800128c                DMA1_Channel4_IRQHandler
+                0x0800128c                USART3_IRQHandler
+                0x0800128c                RTC_IRQHandler
+                0x0800128c                DMA1_Channel7_IRQHandler
+                0x0800128c                CAN1_RX1_IRQHandler
+                0x0800128c                UART5_IRQHandler
+                0x0800128c                ADC3_IRQHandler
+                0x0800128c                TIM4_IRQHandler
+                0x0800128c                DMA2_Channel1_IRQHandler
+                0x0800128c                I2C1_EV_IRQHandler
+                0x0800128c                DMA1_Channel6_IRQHandler
+                0x0800128c                UART4_IRQHandler
+                0x0800128c                TIM3_IRQHandler
+                0x0800128c                RCC_IRQHandler
+                0x0800128c                TIM1_TRG_COM_IRQHandler
+                0x0800128c                DMA1_Channel1_IRQHandler
+                0x0800128c                EXTI15_10_IRQHandler
+                0x0800128c                TIM7_IRQHandler
+                0x0800128c                TIM5_IRQHandler
+                0x0800128c                EXTI9_5_IRQHandler
+                0x0800128c                SPI2_IRQHandler
+                0x0800128c                DMA1_Channel5_IRQHandler
+                0x0800128c                EXTI4_IRQHandler
+                0x0800128c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800128c                USB_HP_CAN1_TX_IRQHandler
+                0x0800128c                DMA1_Channel3_IRQHandler
+                0x0800128c                FSMC_IRQHandler
+                0x0800128c                TIM1_UP_IRQHandler
+                0x0800128c                WWDG_IRQHandler
+                0x0800128c                TIM2_IRQHandler
+                0x0800128c                TIM1_BRK_IRQHandler
+                0x0800128c                EXTI1_IRQHandler
+                0x0800128c                RTCAlarm_IRQHandler
+                0x0800128c                DMA2_Channel4_5_IRQHandler
+                0x0800128c                USART2_IRQHandler
+                0x0800128c                I2C2_ER_IRQHandler
+                0x0800128c                DMA1_Channel2_IRQHandler
+                0x0800128c                TIM8_BRK_IRQHandler
+                0x0800128c                CAN1_SCE_IRQHandler
+                0x0800128c                FLASH_IRQHandler
+                0x0800128c                USART1_IRQHandler
+                0x0800128c                SPI3_IRQHandler
+                0x0800128c                I2C1_ER_IRQHandler
+                0x0800128c                USBWakeUp_IRQHandler
+                0x0800128c                DMA2_Channel3_IRQHandler
+ .text._VectorTableKeep
+                0x08001298        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+                0x08001298                _VectorTableKeep
+ .text.__libc_init_array
+                0x0800129c       0x4c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+                0x0800129c                __libc_init_array
+ .text.__cvt    0x080012e8       0xc0 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+                0x080012e8                __cvt
+ .text.__exponent
+                0x080013a8       0x68 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+                0x080013a8                __exponent
+ .text._printf_float
+                0x08001410      0x41c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+                0x08001410                _printf_float
+ .text._printf_common
+                0x0800182c       0xe4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+                0x0800182c                _printf_common
+ .text.quorem   0x08001910      0x11e c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ *fill*         0x08001a2e        0x2 
+ .text._dtoa_r  0x08001a30      0xb80 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+                0x08001a30                _dtoa_r
+ .text._localeconv_r
+                0x080025b0        0x8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+                0x080025b0                _localeconv_r
+ .text.malloc   0x080025b8       0x10 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+                0x080025b8                malloc
+ .text.memcpy   0x080025c8       0x12 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+                0x080025c8                memcpy
+ .text._Balloc  0x080025da       0x6a c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x080025da                _Balloc
+ .text._Bfree   0x08002644       0x2e c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002644                _Bfree
+ .text.__multadd
+                0x08002672       0x74 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002672                __multadd
+ .text.__hi0bits
+                0x080026e6       0x40 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x080026e6                __hi0bits
+ .text.__lo0bits
+                0x08002726       0x5a c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002726                __lo0bits
+ .text.__i2b    0x08002780       0x12 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002780                __i2b
+ .text.__multiply
+                0x08002792      0x130 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002792                __multiply
+ *fill*         0x080028c2        0x2 
+ .text.__pow5mult
+                0x080028c4       0x9c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x080028c4                __pow5mult
+ .text.__lshift
+                0x08002960       0xa6 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002960                __lshift
+ .text.__mcmp   0x08002a06       0x3a c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002a06                __mcmp
+ .text.__mdiff  0x08002a40       0xbe c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002a40                __mdiff
+ .text.__d2b    0x08002afe       0xa4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002afe                __d2b
+ .text._calloc_r
+                0x08002ba2       0x1c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+                0x08002ba2                _calloc_r
+ *fill*         0x08002bbe        0x2 
+ .text._malloc_r
+                0x08002bc0       0xa8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+                0x08002bc0                _malloc_r
+ .text.__fpclassifyd
+                0x08002c68       0x44 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+                0x08002c68                __fpclassifyd
+ .text._sbrk_r  0x08002cac       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+                0x08002cac                _sbrk_r
+ .text.strlen   0x08002ccc       0x10 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+                0x08002ccc                strlen
+ .text.memset   0x08002cdc       0x10 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+                0x08002cdc                memset
+ .text._sbrk    0x08002cec       0x34 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+                0x08002cec                _sbrk
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x08002d20       0x12 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .rodata.str1.1
+                0x08002d32        0xd c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+                                  0xf (size before relaxing)
+ .rodata.str1.1
+                0x08002d3f        0xa c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+                                  0xb (size before relaxing)
+ *fill*         0x08002d49        0x7 
+ .rodata.__mprec_tens
+                0x08002d50       0xc8 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002d50                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x08002e18       0x28 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+                0x08002e18                __mprec_bigtens
+ .rodata.p05.5281
+                0x08002e40        0xc c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .rodata.str1.1
+                0x00000000        0x2 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ *(.fini)
+                0x08002e4c                . = ALIGN (0x4)
+                0x08002e4c                _etext = .
+
+.vfp11_veneer   0x08002e4c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08002e4c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08002e4c        0x0
+ .iplt          0x00000000        0x0 src\stm32f10x_it.o
+
+.rel.dyn        0x08002e4c        0x0
+ .rel.iplt      0x00000000        0x0 src\stm32f10x_it.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08002e4c        0x0
+                0x08002e4c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002e4c                __exidx_end = .
+
+.ARM.attributes
+                0x08002e4c       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08002e4c       0x33 src\stm32f10x_it.o
+ .ARM.attributes
+                0x08002e7f       0x33 src\main.o
+ .ARM.attributes
+                0x08002eb2       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .ARM.attributes
+                0x08002ee5       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .ARM.attributes
+                0x08002f18       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .ARM.attributes
+                0x08002f4b       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .ARM.attributes
+                0x08002f7e       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .ARM.attributes
+                0x08002fb1       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .ARM.attributes
+                0x08002fe4       0x21 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(startup_stm32f10x_hd.o)
+ .ARM.attributes
+                0x08003005       0x33 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+ .ARM.attributes
+                0x08003038       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x08003065       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .ARM.attributes
+                0x08003092       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .ARM.attributes
+                0x080030bf       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x080030ec       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .ARM.attributes
+                0x08003119       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x08003146       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x08003173       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x080031a0       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x080031cd       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x080031fa       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x08003227       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x08003254       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x08003281       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x080032ae       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x080032db       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .ARM.attributes
+                0x08003308       0x1d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x08003325       0x1d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x08003342       0x1d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0800335f       0x1d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0800337c       0x2d c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+
+.preinit_array  0x08002e4c        0x0
+                0x08002e4c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08002e4c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08002e4c        0x0
+                0x08002e4c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x08002e4c                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08002e4c        0x0
+                0x08002e4c                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x08002e4c                PROVIDE (__fini_array_end, .)
+                0x08002e4c                _sidata = .
+
+.data           0x20000000       0xa4 load address 0x08002e4c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.counter  0x20000000        0x4 src\main.o
+                0x20000000                counter
+ .data.SystemCoreClock
+                0x20000004        0x4 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+                0x20000004                SystemCoreClock
+ .data.lconv    0x20000008       0x38 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .data.impure_data
+                0x20000040       0x60 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200000a0        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                0x200000a0                _impure_ptr
+                0x200000a4                . = ALIGN (0x4)
+                0x200000a4                _edata = .
+
+.igot.plt       0x200000a4        0x0 load address 0x08002ef0
+ .igot.plt      0x00000000        0x0 src\stm32f10x_it.o
+                0x200000a4                . = ALIGN (0x4)
+
+.bss            0x200000a4       0x24 load address 0x08002ef0
+                0x200000a4                _sbss = .
+                0x200000a4                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.time      0x200000a4        0x4 src\main.o
+                0x200000a4                time
+ .bss.flash     0x200000a8        0x4 src\main.o
+                0x200000a8                flash
+ .bss.buzzer_flag
+                0x200000ac        0x1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000ac                buzzer_flag
+ *fill*         0x200000ad        0x1 
+ .bss.buzzer_val
+                0x200000ae        0x2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000ae                buzzer_val
+ .bss.seconds   0x200000b0        0x2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000b0                seconds
+ .bss.ticks     0x200000b2        0x2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000b2                ticks
+ .bss.buzzer_count
+                0x200000b4        0x1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000b4                buzzer_count
+ .bss.buzzer_control_on
+                0x200000b5        0x1 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000b5                buzzer_control_on
+ .bss.buzzer_period
+                0x200000b6        0x2 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+                0x200000b6                buzzer_period
+ .bss.__malloc_sbrk_start
+                0x200000b8        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+                0x200000b8                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200000bc        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+                0x200000bc                __malloc_free_list
+ .bss.heap_end.4246
+                0x200000c0        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x200000c4        0x4 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+                0x200000c4                errno
+                0x200000c8                . = ALIGN (0x4)
+                0x200000c8                _ebss = .
+                0x200000c8                __bss_end__ = _ebss
+                0x200000c8                PROVIDE (end, _ebss)
+                0x200000c8                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x200000c8      0x600 load address 0x08002f14
+                0x200000c8                . = ALIGN (0x4)
+                0x200002c8                . = (. + _Min_Heap_Size)
+ *fill*         0x200000c8      0x200 
+                0x200006c8                . = (. + _Min_Stack_Size)
+ *fill*         0x200002c8      0x400 
+                0x200006c8                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(app.elf elf32-littlearm)
+
+.debug_info     0x00000000      0x3b8
+ .debug_info    0x00000000      0x121 src\stm32f10x_it.o
+ .debug_info    0x00000121      0x297 src\main.o
+
+.debug_abbrev   0x00000000      0x17a
+ .debug_abbrev  0x00000000       0x5d src\stm32f10x_it.o
+ .debug_abbrev  0x0000005d      0x11d src\main.o
+
+.debug_aranges  0x00000000       0x98
+ .debug_aranges
+                0x00000000       0x60 src\stm32f10x_it.o
+ .debug_aranges
+                0x00000060       0x38 src\main.o
+
+.debug_ranges   0x00000000       0x78
+ .debug_ranges  0x00000000       0x50 src\stm32f10x_it.o
+ .debug_ranges  0x00000050       0x28 src\main.o
+
+.debug_macro    0x00000000     0xb793
+ .debug_macro   0x00000000       0xe5 src\stm32f10x_it.o
+ .debug_macro   0x000000e5      0x856 src\stm32f10x_it.o
+ .debug_macro   0x0000093b       0x56 src\stm32f10x_it.o
+ .debug_macro   0x00000991       0x22 src\stm32f10x_it.o
+ .debug_macro   0x000009b3       0x16 src\stm32f10x_it.o
+ .debug_macro   0x000009c9       0x44 src\stm32f10x_it.o
+ .debug_macro   0x00000a0d      0x209 src\stm32f10x_it.o
+ .debug_macro   0x00000c16      0x69f src\stm32f10x_it.o
+ .debug_macro   0x000012b5     0x7e6d src\stm32f10x_it.o
+ .debug_macro   0x00009122      0x3a7 src\stm32f10x_it.o
+ .debug_macro   0x000094c9       0x9a src\stm32f10x_it.o
+ .debug_macro   0x00009563      0x2cf src\stm32f10x_it.o
+ .debug_macro   0x00009832      0x279 src\stm32f10x_it.o
+ .debug_macro   0x00009aab      0x2ac src\stm32f10x_it.o
+ .debug_macro   0x00009d57      0x3e2 src\stm32f10x_it.o
+ .debug_macro   0x0000a139      0x2c4 src\stm32f10x_it.o
+ .debug_macro   0x0000a3fd      0x220 src\stm32f10x_it.o
+ .debug_macro   0x0000a61d       0x8b src\stm32f10x_it.o
+ .debug_macro   0x0000a6a8       0x35 src\stm32f10x_it.o
+ .debug_macro   0x0000a6dd      0x144 src\main.o
+ .debug_macro   0x0000a821       0x22 src\main.o
+ .debug_macro   0x0000a843      0x166 src\main.o
+ .debug_macro   0x0000a9a9      0x6bd src\main.o
+ .debug_macro   0x0000b066      0x711 src\main.o
+ .debug_macro   0x0000b777       0x1c src\main.o
+
+.debug_line     0x00000000      0x7fa
+ .debug_line    0x00000000      0x387 src\stm32f10x_it.o
+ .debug_line    0x00000387      0x473 src\main.o
+
+.debug_str      0x00000000    0x42446
+ .debug_str     0x00000000    0x3d64d src\stm32f10x_it.o
+                              0x3d792 (size before relaxing)
+ .debug_str     0x0003d64d     0x4df9 src\main.o
+                              0x42554 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 src\stm32f10x_it.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 src\main.o
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(ticks.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(delay.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(buzzer.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(system_stm32f10x.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_rcc.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(stm32f10x_gpio.o)
+ .comment       0x00000000       0x71 C:\Users\Peggy_PAKKI\Google Drive\HKUST\Robotics team\Stm32Test\lib\libstm32_internal.a(vectors.o)
+
+.debug_frame    0x00000000      0x7a4
+ .debug_frame   0x00000000      0x130 src\stm32f10x_it.o
+ .debug_frame   0x00000130       0x8c src\main.o
+ .debug_frame   0x000001bc       0x2c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .debug_frame   0x000001e8       0x80 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_float.o)
+ .debug_frame   0x00000268       0x60 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-vfprintf_i.o)
+ .debug_frame   0x000002c8       0x68 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-dtoa.o)
+ .debug_frame   0x00000330       0x98 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-locale.o)
+ .debug_frame   0x000003c8       0x30 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-malloc.o)
+ .debug_frame   0x000003f8       0x28 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000420      0x230 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-mprec.o)
+ .debug_frame   0x00000650       0x2c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-callocr.o)
+ .debug_frame   0x0000067c       0x2c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000006a8       0x28 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x000006d0       0x2c c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-sbrkr.o)
+ .debug_frame   0x000006fc       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-strlen.o)
+ .debug_frame   0x0000071c       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .debug_frame   0x0000073c       0x48 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-reent.o)
+ .debug_frame   0x00000784       0x20 c:/gcc-arm-none-eabi-4_8/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(sbrk.o)
